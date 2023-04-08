@@ -90,6 +90,10 @@ public class ShareStack<T> {
 		s.push(2, 1);
 		s.push(2, 2);
 		s.push(2, 3);
+
+		//ejel
+
+
 		System.out.println("栈是否为空？(true or false?)"+s.isEmpty());
 		System.out.println("栈1的栈顶元素是"+s.getTop(1));
 		System.out.println("栈2的栈顶元素是"+s.getTop(2));
